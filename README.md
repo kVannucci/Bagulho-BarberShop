@@ -28,6 +28,9 @@ HTML5    CSS3     Vanilla JS
 2. Abra `index.html` no seu navegador favorito (Chrome, Firefox, etc.).
 3. Ou use Live Server no VSCode para auto-reload.
 
+## Link do repositório
+- https://bagulho-barber-shop.vercel.app/
+
 
 ## 📱 Social Medias
 - Instagram: https://www.instagram.com/bagulhobarbershop/
