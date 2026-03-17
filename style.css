@@ -491,7 +491,7 @@ button {
 }
 
 .contact {
-  background: #f76a36;
+  background: var(--primary);
   color: #fff;
   clip-path: polygon(0 8%, 100% 0, 100% 100%, 0 100%);
 }
