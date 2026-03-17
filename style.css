@@ -199,13 +199,21 @@ button {
 }
 
 .btn-instagram {
-  background: linear-gradient(90deg, #ff2d55, #7b2cff, #0057ff);
+  background: linear-gradient(90deg, #ff2d55, #7b2cff);
   color: #fff;
+}
+
+.btn-instagram:hover {
+  background: #1b2118;
 }
 
 .btn-whatsapp {
   background: #3d9719;
   color: #fff;
+}
+
+.btn-whatsapp:hover {
+  background: #1b2118;
 }
 
 .hero {
